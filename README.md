@@ -7,8 +7,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 # Technologies 
-- Router Vue
-- TailwindCss
-- Vuex
+- [Vue3](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Router Vue](https://router.vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 # API
-[TheMealDB](https://www.themealdb.com/api.php).
+[TheMealDB](https://www.themealdb.com/api.php)
