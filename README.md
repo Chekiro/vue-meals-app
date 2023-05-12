@@ -17,5 +17,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 [TheMealDB](https://www.themealdb.com/api.php)
 
-# GitHubPage
+# GitHub Page
 https://chekiro.github.io/vue-meals-app/
