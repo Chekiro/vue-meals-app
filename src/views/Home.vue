@@ -12,12 +12,6 @@ onMounted(async () => {
       .then(({ data }) => meals.value.push(data.meals[0]));
   }
 });
-
-onMounted(async () => {
-  axiosClient
-    .get(`random.php`)
-    .then(({ data }) => meals.value.push(data.meals[0]));
-});
 </script>
 
 <template>

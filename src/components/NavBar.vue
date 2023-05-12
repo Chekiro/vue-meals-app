@@ -25,6 +25,12 @@
       >
         Meals By Ingredients
       </router-link>
+      <router-link
+        :to="{ name: 'byDice' }"
+        class="inline-flex items-center font-semibold px-2 h-full transition-colors hover:bg-sky-500 hover:text-white"
+      >
+        Meals By Dice
+      </router-link>
     </div>
   </header>
 </template>
